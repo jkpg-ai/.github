@@ -5,7 +5,7 @@
 
 # jkpg.ai
 
-**Applied AI-community i Jönköpings län.**
+**Applied AI-community i Jönköpingsregionen.**
 
 Du hör hemma här om du bygger med AI, experimenterar eller är nyfiken. Tänkare och skapare i Jönköping träffas snart. Anmäl dig, så är du med.
 
@@ -14,7 +14,7 @@ Du hör hemma här om du bygger med AI, experimenterar eller är nyfiken. Tänka
 
 ---
 
-**Applied AI community in Jönköping County.**
+**Applied AI community in the Jönköping region.**
 
 You belong here if you build with AI, experiment or are simply curious. Thinkers and builders in Jönköping are meeting soon. Sign up, and you are in.
 
