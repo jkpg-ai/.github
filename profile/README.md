@@ -5,7 +5,7 @@
 
 # jkpg.ai
 
-**Applied AI-community i Jönköpingsregionen.**
+**Applied AI-community i Jönköpings-regionen.**
 
 Du hör hemma här om du bygger med AI, experimenterar eller är nyfiken. Tänkare och skapare i Jönköping träffas snart. Anmäl dig, så är du med.
 
